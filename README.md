@@ -1,5 +1,7 @@
-MindMend Bot
-[https://github.com/vermayesh123456/MindMend-Bot/blob/main/Untitled1.png ]
+![MindMend Bot](https://github.com/vermayesh123456/MindMend-Bot/blob/main/Untitled1.png)
+![](https://github.com/vermayesh123456/MindMend-Bot/blob/main/Untitled2.png)
+
+
 
 MindMend Bot is a psychotherapy chatbot designed to provide mental health support and guidance through natural language interactions. It leverages advanced language models to engage in meaningful conversations, helping users manage their mental well-being.
 
